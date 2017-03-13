@@ -1,10 +1,13 @@
 _repo: A-New-Philosophy--Henri-Bergson_1347
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Benson, Vincent
     gutenberg_agent_id: '612'
     url: http://www.gutenberg.org/2009/agents/612
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Le Roy, Edouard
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '611'
     url: http://www.gutenberg.org/2009/agents/611
 description: 'Translation of: Philosophie nouvelle, Henri Bergson'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1347#A-New-Philosophy--Henri-Bergson
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '1998-06-01'
 gutenberg_type: Text
